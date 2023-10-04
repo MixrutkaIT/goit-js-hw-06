@@ -5,3 +5,4 @@ const elemText = document.getElementById('text');
       const fontSize = fontSizeControl.value + 'px';
       elemText.style.fontSize = fontSize;
     });
+
