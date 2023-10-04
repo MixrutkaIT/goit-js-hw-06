@@ -21,4 +21,4 @@ const galleryMarkup = images.map((image) => `
   </li>
 `).join("");
 
-galleryList.insertAdjacentHTML("beforeend", galleryMarkup);
+galleryList.insertAdjacentHTML("beforeend", galleryMarkup);1

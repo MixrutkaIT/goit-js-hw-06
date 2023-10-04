@@ -8,4 +8,4 @@ nameInput.addEventListener('input', () => {
   } else {
     nameOutput.textContent = inputValue; 
   }
-});
+});1

@@ -10,4 +10,4 @@ elemInput.addEventListener('blur', () => {
         elemInput.classList.remove('valid');
         elemInput.classList.add('invalid');
       }
-    });
+    });1

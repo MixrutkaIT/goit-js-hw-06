@@ -14,4 +14,4 @@ loginForm.addEventListener('submit', function (event) {
       } else {
         alert('Всі поля повинні бути заповнені');
       }
-    });
+    });1

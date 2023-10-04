@@ -11,4 +11,4 @@ const spanColor = document.querySelector('.color');
       const randomColor = getRandomHexColor();
       document.body.style.backgroundColor = randomColor;
       spanColor.textContent = randomColor;
-    });
+    });1
