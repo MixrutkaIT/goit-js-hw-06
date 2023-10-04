@@ -12,7 +12,7 @@ categoryItems.forEach((categoryItem) => {
     
     console.log(`Category: ${categoryTitle.textContent}`);
     console.log(`Elements: ${categoryElements.length}`);
-});1
+});
 
 
 
