@@ -6,7 +6,7 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
-
+// пошук по id
 const ingredientsList = document.querySelector("#ingredients");
 
 ingredients.forEach((ingredient) => {
