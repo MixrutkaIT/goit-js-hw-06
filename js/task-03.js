@@ -12,7 +12,7 @@ const images = [
     alt: 'Group of Horses Running',
   },
 ];
-// пошук по класу
+
 const galleryList = document.querySelector(".gallery");
 
 const galleryMarkup = images.map((image) => `
